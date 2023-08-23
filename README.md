@@ -1,15 +1,40 @@
 
+ <style>
+    /* Add custom styles here */
+    .profile-container {
+      display: flex;
+      align-items: center;
+    }
+
+    .profile-image {
+      width: 60px; /* Adjust the size as needed */
+      height: auto;
+      margin-left: 20px; /* Adjust the spacing as needed */
+    }
+
+    .profile-text {
+      flex: 1;
+    }
+  </style>
+</head>
+<body>
+
 <h1 align="center">Hi 👋, I'm Lakhman</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="center">
-  <img src="images.gif" alt="GIF image">
-</p>
-
-- 🔭 I’m currently working on <a href="https://github.com/PKR9759/hw1-pr">food token</a><br>
-- 🌱 I’m currently learning <strong>javascript</strong><br>
-- 👯 I’m looking to collaborate on <a href="https://github.com/PKR9759/hw1-pr">food token</a><br>
-- 🤝 I’m looking for help with <a href="https://github.com/PKR9759/hw1-pr">payment and real-time status</a><br>
+<div class="profile-container">
+  <div class="profile-text">
+    <p>
+      <strong>🔭 I’m currently working on <a href="https://github.com/PKR9759/hw1-pr">food token</a></strong><br>
+      🌱 I’m currently learning <strong>javascript</strong><br>
+      👯 I’m looking to collaborate on <strong><a href="https://github.com/PKR9759/hw1-pr">food token</a></strong><br>
+      🤝 I’m looking for help with <strong><a href="https://github.com/PKR9759/hw1-pr">payment and real-time status</a></strong><br>
+    </p>
+  </div>
+  <div class="profile-image">
+    <img src="images.gif" alt="GIF image" width="100%">
+  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
