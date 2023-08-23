@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://www.leetcode.com/lakhman_108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lakhman_108" height="30" width="40" /></a>
 </p>
-<p align="center">
+<p align="right">
   <img src="images.gif" alt="GIF image" width="200" height="200">
 </p>
 
