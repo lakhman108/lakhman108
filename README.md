@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="300" width="300" src="images.gif"  />
+</div>
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -38,9 +41,7 @@
 
 ###
 
-<div align="center">
-  <img height="300" src="images.gif"  />
-</div>
+
 
 ###
 
