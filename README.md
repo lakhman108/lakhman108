@@ -39,12 +39,12 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="300" src="images.gif"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/lakhman108/lakhman108/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
