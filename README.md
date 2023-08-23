@@ -47,7 +47,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p  align="left" style="display: flex; gap: 20px;">
+<p  align="left" style="display: flex; gap: 20px; align-items:center; justify-content:center;">
   <a href="https://www.leetcode.com/lakhman_108" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lakhman_108" height="30" width="40" />
   </a>
