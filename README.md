@@ -16,8 +16,7 @@
       flex: 1;
     }
   </style>
-</head>
-<body>
+
 
 <h1 align="center">Hi 👋, I'm Lakhman</h1>
 <h3 align="center">A passionate developer from India</h3>
