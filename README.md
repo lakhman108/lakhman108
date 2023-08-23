@@ -45,9 +45,9 @@
 
 ###
 
-
+<div align="left">
 <h3 align="left">Connect with me:</h3>
-<p  align="left" style="display: flex; gap: 20px; align-items:center; justify-content:center;">
+<p  >
   <a href="https://www.leetcode.com/lakhman_108" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lakhman_108" height="30" width="40" />
   </a>
@@ -55,7 +55,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </p>
-
+</div>
 
 
 ###
