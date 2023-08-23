@@ -1,22 +1,5 @@
 
- <style>
-    /* Add custom styles here */
-    .profile-container {
-      display: flex;
-      align-items: center;
-    }
-
-    .profile-image {
-      width: 60px; /* Adjust the size as needed */
-      height: auto;
-      margin-left: 20px; /* Adjust the spacing as needed */
-    }
-
-    .profile-text {
-      flex: 1;
-    }
-  </style>
-
+ 
 
 <h1 align="center">Hi 👋, I'm Lakhman</h1>
 <h3 align="center">A passionate developer from India</h3>
@@ -31,7 +14,7 @@
     </p>
   </div>
   <div class="profile-image">
-    <img src="images.gif" alt="GIF image" width="100%">
+    <img src="images.gif" alt="GIF image"  height="200px" width="50%">
   </div>
 </div>
 
