@@ -1,5 +1,5 @@
 <div align="center">
-  <video height="300" width="300" src="main.mp4"></video>
+  <video height="300" width="300" src="main.gif"></video>
 
 </div>
 <h1 align="left">Hey 👋 What's up?</h1>
