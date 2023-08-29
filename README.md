@@ -20,8 +20,8 @@
 
 <h2 align="left">My Projects</h2>
 
-<p align="left"><a href="https://lakhman108.github.io/dev_with_code_help/">desktop emoji game with js 🙂</a></p>
-
+- A Desktop Game which you can play [emoji game](https://lakhman108.github.io/dev_with_code_help/)
+- 🔭 I’m currently working on [Token Management For Canteen](https://github.com/lakhman108/hw_1)
 
 ###
 
