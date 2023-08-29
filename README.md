@@ -20,7 +20,7 @@
 
 <h2 align="left">My Projects</h2>
 
-<p align="left"><a herf="https://lakhman108.github.io/dev_with_code_help/">desktop emoji game with js 🙂</a></p>
+<p align="left"><a href="https://lakhman108.github.io/dev_with_code_help/">desktop emoji game with js 🙂</a></p>
 
 
 ###
