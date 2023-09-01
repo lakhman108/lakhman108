@@ -23,9 +23,9 @@
 - A Desktop Game which you can play [emoji game](https://lakhman108.github.io/dev_with_code_help/)
 - 🔭 I’m currently working on [Token Management For Canteen](https://github.com/lakhman108/hw_1)
  
-<div align="left">
+<div align="right">
   <a href="https://www.youtube.com/watch?v=JbHUYzly6FA">
-    <img src="https://img.youtube.com/vi/JbHUYzly6FA/0.jpg" alt="YouTube Video" width="400" height="225">
+    <img src="https://img.youtube.com/vi/JbHUYzly6FA/0.jpg" alt="YouTube Video" width="500" height="350">
   </a>
 </div>
 
