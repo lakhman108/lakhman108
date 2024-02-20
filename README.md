@@ -20,8 +20,9 @@
 
 <h2 align="left">My Projects</h2>
 
-- A Desktop Game which you can play [emoji game](https://lakhman108.github.io/development/) {:target="_blank"}
-- 🔭 I’m currently working on [Token Management For Canteen](https://github.com/lakhman108/hw_1) {:target="_blank"}
+- A Desktop Game which you can play <a href="https://lakhman108.github.io/development/" target="_blank">emoji game</a>
+- 🔭 I’m currently working on <a href="https://github.com/lakhman108/hw_1" target="_blank">Token Management For Canteen</a>
+
  
 <div align="left">
   <a href="https://www.youtube.com/watch?v=JbHUYzly6FA" target="_blank">
