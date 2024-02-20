@@ -20,11 +20,11 @@
 
 <h2 align="left">My Projects</h2>
 
-- A Desktop Game which you can play [emoji game](https://lakhman108.github.io/development/)
-- 🔭 I’m currently working on [Token Management For Canteen](https://github.com/lakhman108/hw_1)
+- A Desktop Game which you can play [emoji game](https://lakhman108.github.io/development/) {:target="_blank"}
+- 🔭 I’m currently working on [Token Management For Canteen](https://github.com/lakhman108/hw_1) {:target="_blank"}
  
 <div align="left">
-  <a href="https://www.youtube.com/watch?v=JbHUYzly6FA">
+  <a href="https://www.youtube.com/watch?v=JbHUYzly6FA" target="_blank">
     <img src="https://img.youtube.com/vi/JbHUYzly6FA/0.jpg" alt="YouTube Video" width="500" height="350">
   </a>
 </div>
