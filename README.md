@@ -27,11 +27,7 @@
   - [GitHub](https://github.com/lakhman108/smartstay.git)
   - [Live Project](https://smartstay.onrender.com)
 
-<div align="left">
-  <a href="https://www.youtube.com/watch?v=JbHUYzly6FA" target="_blank">
-    <img src="https://img.youtube.com/vi/JbHUYzly6FA/0.jpg" alt="YouTube Video" width="500" height="350">
-  </a>
-</div>
+
 
 <h2 align="left">I Code With</h2>
 
@@ -53,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
 </div>
 
-<h3 align="left">Connect with Me:</h3>
+
 
 
 
