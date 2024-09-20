@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="300" width="400" src="main.gif" alt="Developer at Work">
-</div>
+
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
