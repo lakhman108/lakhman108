@@ -23,7 +23,7 @@
 - **SmartStay**
   - Description: Developed REST API endpoints with Java SpringBoot, implementing JPA and security features. Documented 16 RESTful endpoints for various functionalities.
   - [GitHub](https://github.com/lakhman108/smartstay.git)
-  - [Live Project](https://smartstay.onrender.com)
+  
 
 
 
