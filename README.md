@@ -58,7 +58,6 @@
     
   </tr>
   <tr>
-    
      <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" title="Tailwind" />
       <br>Tailwind
