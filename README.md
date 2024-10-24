@@ -46,14 +46,7 @@
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="React" title="React" />
       <br>React
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" title="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="45" height="45" alt="Redux" title="Redux" />
-      <br>Redux
-    </td>
+    
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" title="Express.js" />
       <br>Express.js
@@ -103,14 +96,8 @@
       <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" title="Postman" />
       <br>Postman
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub Actions" title="GitHub Actions" />
-      <br>GitHub Actions
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="Google Cloud Platform" title="GCP" />
-      <br>GCP
-    </td>
+    
+   
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45" height="45" alt="Amazon Web Services" title="AWS" />
       <br>AWS
@@ -119,10 +106,7 @@
       <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" title="Vercel" />
       <br>Vercel
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=netlify" width="45" height="45" alt="Netlify" title="Netlify" />
-      <br>Netlify
-    </td>
+    
   </tr>
 </table>
 
