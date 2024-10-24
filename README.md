@@ -47,14 +47,7 @@
       <br>React
     </td>
     
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" title="Express.js" />
-      <br>Express.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45" alt="C++" title="C++" />
-      <br>C++
-    </td>
+   
     
   </tr>
   <tr>
@@ -98,15 +91,7 @@
     </td>
     
    
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45" height="45" alt="Amazon Web Services" title="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" title="Vercel" />
-      <br>Vercel
-    </td>
-    
+
   </tr>
 </table>
 
