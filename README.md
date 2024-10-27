@@ -13,7 +13,7 @@
 - **Improved CMS (Python Django)**
   - Description: Enhanced canteen management system with dynamic data fetching and Django authentication. Integrated Razorpay for payment processing and DjangoRest for API development.
   - [GitHub](https://github.com/lakhman108/hw_1)
-  - [Live Project](https://canteen-sek5.onrender.com)
+  
 
 - **Game Development**
   - Description: Developed interactive games using HTML, CSS, and JavaScript, incorporating DOM manipulation and local storage. Designed SVG animations for engaging user experiences. Learned about Github pages and hosted using that.
@@ -23,8 +23,6 @@
 - **SmartStay**
   - Description: Developed REST API endpoints with Java SpringBoot, implementing JPA and security features. Documented 16 RESTful endpoints for various functionalities.
   - [GitHub](https://github.com/lakhman108/smartstay.git)
-  
-
 
 
 ## 💻 Tech Stack:
