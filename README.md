@@ -9,23 +9,52 @@
 🎯 Goal: Be a developer who leaves a legacy of meaningful software<br>
 🤹 Fun fact: I’m just as skilled in creating bugs as I am in squashing them!</p>
 
-<h2 align="left">🚀 My Projects</h2>
 
-- **Canteen Management System (CMS)** - [GitHub](https://github.com/lakhman108/Canteen.git)
-  - **Tech Stack**: Python, Django, Supabase, Razorpay
-  - **Description**: An intuitive canteen management system with seamless data fetching, secure Django authentication, and Razorpay for smooth payments. Deployed on Render for accessible performance, this project helped me master REST APIs and cloud deployments.
+# Projects Portfolio
 
-- **SmartStay** - [GitHub](https://github.com/lakhman108/smartstay.git)
-  - **Tech Stack**: Java Spring Boot, PostgreSQL, Supabase
-  - **Description**: Built for students, SmartStay features a REST API-driven platform to simplify accommodation searches. Implemented with JPA for secure and reliable data handling, it’s an extensive project documenting 16 endpoints to cater to user needs.
+## Canteen Management System (CMS)
+[![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lakhman108/Canteen.git)
 
-- **AgroAdvice** - [GitHub](https://github.com/lakhman108/AgriHackout.git)
-  - **Tech Stack**: Java Spring Boot, JWT Auth, React, ViteJS
-  - **Description**: Developed in just 48 hours during a hackathon, this project empowers farmers by identifying crop diseases and recommending treatments. A fast-paced, rewarding challenge where I learned a lot about rapid development and teamwork!
+An intuitive canteen management system with seamless data fetching, secure Django authentication, and Razorpay for smooth payments. Deployed on Render for accessible performance, this project helped me master REST APIs and cloud deployments.
 
-- **Sarthi Video Streaming** - [GitHub](https://github.com/lakhman108/sarthi.git)
-  - **Tech Stack**: ReactJS, NodeJS, MongoDB, FFMPEG
-  - **Description**: Inspired by Google Classroom, this adaptive video streaming platform uses the MERN stack and FFMPEG to deliver high-quality video at multiple levels. Scalable and efficient, it supports students with reliable and smooth video content.
+### Tech Stack
+- Python
+- Django
+- Supabase
+- Razorpay
+
+## SmartStay
+[![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lakhman108/smartstay.git)
+
+Built for students, SmartStay features a REST API-driven platform to simplify accommodation searches. Implemented with JPA for secure and reliable data handling, it's an extensive project documenting 16 endpoints to cater to user needs.
+
+### Tech Stack
+- Java Spring Boot
+- PostgreSQL
+- Supabase
+
+## AgroAdvice
+[![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lakhman108/AgriHackout.git)
+
+Developed in just 48 hours during a hackathon, this project empowers farmers by identifying crop diseases and recommending treatments. A fast-paced, rewarding challenge where I learned a lot about rapid development and teamwork!
+
+### Tech Stack
+- Java Spring Boot
+- JWT Auth
+- React
+- ViteJS
+
+## Sarthi Video Streaming
+[![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lakhman108/sarthi.git)
+
+Inspired by Google Classroom, this adaptive video streaming platform uses the MERN stack and FFMPEG to deliver high-quality video at multiple levels. Scalable and efficient, it supports students with reliable and smooth video content.
+
+### Tech Stack
+- ReactJS
+- NodeJS
+- MongoDB
+- FFMPEG
+
 
 <h2 align="left">💻 My Tech Stack</h2>
 
