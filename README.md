@@ -69,7 +69,7 @@ Inspired by Google Classroom, this adaptive video streaming platform uses the ME
   </tr>
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind"/><br>Tailwind</td>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" alt="Python"/><br>Python</td>
+    <td align="center" width="90"><iframe src="https://lottie.host/embed/45f9d716-7b12-4e0d-9049-55dbe26dbd17/1Ll1ZnZyah.lottie"></iframe>Python</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="45" alt="MongoDB"/><br>MongoDB</td>
     <td align="center" width="90"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="45" alt="Django"/><br>Django</td>
     <td align="center" width="90"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" alt="MySQL"/><br>MySQL</td>
